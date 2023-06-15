@@ -29,11 +29,11 @@ pydemangler_ext = Extension(
 
 setup(
     name='pydemangler',
-    version='0.1',
+    version='0.2',
     description='Python C++ demangler',
-    author='Petr Benes',
-    author_email='w.benny@outlook.com',
-    url='https://github.com/wbenny/pydemangler',
+    author='Zhuo Zhang',
+    author_email='imzhuo@foxmail.com',
+    url='https://github.com/zchrissirhcz/pydemangler',
     ext_modules=[ pydemangler_ext ],
     cmdclass={ 'build_ext': BuildExt }
 )

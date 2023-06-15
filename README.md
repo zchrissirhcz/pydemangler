@@ -13,7 +13,7 @@ by most recent MSVC.
 
 ### Installation
 
-`pip install git+https://github.com/wbenny/pydemangler.git`
+`pip install git+https://github.com/zchrissirhcz/pydemangler.git`
 
 ### Usage
 

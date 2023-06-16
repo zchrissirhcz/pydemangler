@@ -6,6 +6,8 @@ It is a tiny wrapper around [demumble](https://github.com/nico/demumble).
 demumble is a project that extracts small portion of LLVM code that is responsible
 for C++ symbol demangling.
 
+**Disclaimer**: This original repo is https://github.com/wbenny/pydemangler . My modification is mostly for personal use.
+
 ### Why?
 
 I couldn't find any existing Python library that could demangle symbols produced
